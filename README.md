@@ -9,3 +9,5 @@ Social networks, data analytics, sampling, storage,
 
 Statistics are built on sampling. Big Data can make us omnipotent. We can know exactly how many times an event happened
 for instance. 
+
+Do the analysis when the data comes in. It will be less painful. Data modeling is wicked hard. You have to change the model to ask a specific question. This is ungodly for big data. 
